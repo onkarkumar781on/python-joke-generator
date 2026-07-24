@@ -1,2 +1,13 @@
-# python-joke-generator
-Lightweight Python CLI tool that fetches and displays random jokes via an external API.
+# 🎭 Random Joke Generator
+
+A simple Python Command Line Interface (CLI) application that fetches random jokes using an external REST API.
+
+## 🚀 Features
+- Fetches real-time jokes from an open-source API.
+- Clean and simple CLI output.
+- Perfect for beginner Python developers learning `requests` and API interaction.
+
+## 🛠️ How to Run
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/tushar-hacker/joke-generator.git](https://github.com/tushar-hacker/joke-generator.git)
