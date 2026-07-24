@@ -11,3 +11,14 @@ A simple Python Command Line Interface (CLI) application that fetches random jok
 1. Clone this repository:
    ```bash
    git clone [https://github.com/tushar-hacker/joke-generator.git](https://github.com/tushar-hacker/joke-generator.git)
+
+
+pip install requests
+
+Run the application:
+python joke.py
+
+Author: tushar hacker 🚀
+
+
+
